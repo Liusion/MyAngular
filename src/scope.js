@@ -1,6 +1,17 @@
-/**
- * Created by 28356 on 2017/05/21.
- */
+/* jshint globalstrict: true */
+"use strict";
 function Scope() {
     
 }
+
+
+
+
+
+
+
+
+
+
+
+module.exports = Scope;
